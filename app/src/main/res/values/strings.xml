@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Plan_sato</string>
+    <string name="dialog_btn_ok">確定</string>
+    <string name="dialog_btn_ng">キャンセル</string>
+    <string name="dialog_ok_toast">予定追加しました。</string>
+    <string name="dialog_ng_toast">キャンセルしました。</string>
+</resources>
